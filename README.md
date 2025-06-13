@@ -2,7 +2,6 @@
 针对《三角洲》游戏的压枪辅助工具，主要功能为：动态压枪力度调整、射速控制、屏息功能及水平调整。
 # 辅助助手 - 三角洲
 
-![AutoHotkey](https://www.autohotkey.com/download/)  
 
 ---
 
